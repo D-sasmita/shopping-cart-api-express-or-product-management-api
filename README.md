@@ -15,10 +15,10 @@ This is a RESTful API built with Express.js and Node.js to manage product inform
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR_REPOSITORY_URL]
-    cd [YOUR_REPOSITORY_DIRECTORY]
+    git clone (https://github.com/D-sasmita/shopping-cart-api-express-or-product-management-api)
+    cd https://github.com/D-sasmita/shopping-cart-api-express-or-product-management-api
     ```
-    *(Replace `[YOUR_REPOSITORY_URL]` and `[YOUR_REPOSITORY_DIRECTORY]` with your actual repository details)*
+  
 
 2.  **Install dependencies:**
     ```bash
@@ -39,6 +39,7 @@ This is a RESTful API built with Express.js and Node.js to manage product inform
     nodemon app.js
     ```
     The server will start and listen on port `5050`. You should see the message `Server running on http://localhost:5050` and `Connected to MongoDB ✅` in your console.
+    the port number may be different for your operating system
 
 ## API Endpoints
 
